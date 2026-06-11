@@ -1,4 +1,4 @@
-package ci.nsu.mobile.main
+package ci.nsu.moble.main
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
